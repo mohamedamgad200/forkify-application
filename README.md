@@ -27,16 +27,19 @@ Check out the live demo of the app: [Live Demo Link](your-live-link-here)
 
 ## Screenshots
 ##
-### architecture of recipe loading
-![Flowchart - Part 1](forkify-architecture-recipe-loading.png)
-### Recipe Search Flow
-![Flowchart - Part 1](forkify-flowchart-part-1.png)
+### Initial-view
+![Screenshots - Part 1](demo-1.png)
+### Result-view
+![Screenshots - Part 1](forkify-flowchart-part-1.png)
 
-### Bookmarking Flow
-![Flowchart - Part 2](forkify-flowchart-part-2.png)
+### Recipe view
+![Screenshots - Part 2](forkify-flowchart-part-2.png)
 
-### Recipe Upload Flow
-![Flowchart - Part 3](forkify-flowchart-part-3.png)
+### Upload Recipe view
+![Screenshots - Part 3](forkify-flowchart-part-3.png)
+
+### Bookmark view
+![Screenshots - Part 3](forkify-flowchart-part-3.png)
 
 ## Technologies Used
 
