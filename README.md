@@ -27,7 +27,9 @@ Forkify is a recipe searching, bookmarking, and uploading web application. Users
 Check out the live demo of the app: [Live Demo Link](your-live-link-here)
 
 ## Screenshots
-
+##
+forkify-architecture-recipe-loading.png
+![Flowchart - Part 1](forkify-architecture-recipe-loading.png)
 ### Recipe Search Flow
 ![Flowchart - Part 1](https://github.com/your-username/forkify-app/raw/main/images/forkify-flowchart-part-1.png)
 
