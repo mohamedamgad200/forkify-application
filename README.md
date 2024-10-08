@@ -28,7 +28,7 @@ Check out the live demo of the app: [Live Demo Link](your-live-link-here)
 
 ## Screenshots
 ##
-forkify-architecture-recipe-loading.png
+### architecture of recipe loading
 ![Flowchart - Part 1](forkify-architecture-recipe-loading.png)
 ### Recipe Search Flow
 ![Flowchart - Part 1](forkify-flowchart-part-1.png)
