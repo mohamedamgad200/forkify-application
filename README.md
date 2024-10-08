@@ -55,6 +55,13 @@ To set up this project on your local machine:
    ```bash
    git clone https://github.com/your-username/forkify-app.git
 2.Navigate to the project folder:
-```bash
+   ```bash
    cd forkify-app
-
+3.Install dependencies:
+   ```bash
+   npm install
+4.Start the development server:
+   ```bash
+   npm start
+5.Open http://localhost:1234 in your browser to view the app.
+  
