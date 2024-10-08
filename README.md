@@ -39,7 +39,7 @@ Check out the live demo of the app: [Live Demo Link](your-live-link-here)
 ![Screenshots - Part 3](demo4.PNG)
 
 ### Bookmark view
-![Screenshots - Part 3](demo5.PNG)
+![Screenshots - Part 3](demo5.png)
 
 ## Technologies Used
 
