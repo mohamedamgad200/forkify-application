@@ -31,13 +31,13 @@ Check out the live demo of the app: [Live Demo Link](your-live-link-here)
 forkify-architecture-recipe-loading.png
 ![Flowchart - Part 1](forkify-architecture-recipe-loading.png)
 ### Recipe Search Flow
-![Flowchart - Part 1](https://github.com/your-username/forkify-app/raw/main/images/forkify-flowchart-part-1.png)
+![Flowchart - Part 1](forkify-flowchart-part-1.png)
 
 ### Bookmarking Flow
-![Flowchart - Part 2](https://github.com/your-username/forkify-app/raw/main/images/forkify-flowchart-part-2.png)
+![Flowchart - Part 2](forkify-flowchart-part-2.png)
 
 ### Recipe Upload Flow
-![Flowchart - Part 3](https://github.com/your-username/forkify-app/raw/main/images/forkify-flowchart-part-3.png)
+![Flowchart - Part 3](forkify-flowchart-part-3.png)
 
 ## Technologies Used
 
