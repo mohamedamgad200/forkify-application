@@ -49,19 +49,17 @@ Check out the live demo of the app: [Live Demo Link](your-live-link-here)
 
 ## Setup
 
-To set up this project on your local machine:
+# 1. Clone the repository:
+git clone https://github.com/your-username/forkify-app.git
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/forkify-app.git
-2.Navigate to the project folder:
-   ```bash
-   cd forkify-app
-3.Install dependencies:
-   ```bash
-   npm install
-4.Start the development server:
-   ```bash
-   npm start
-5.Open http://localhost:1234 in your browser to view the app.
+# 2. Navigate to the project folder:
+cd forkify-app
+
+# 3. Install dependencies:
+npm install
+
+# 4. Start the development server:
+npm start
+
+# 5. Open http://localhost:1234 in your browser to view the app.
   
