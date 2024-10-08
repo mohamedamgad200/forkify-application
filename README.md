@@ -86,12 +86,17 @@ https://forkify-api.herokuapp.com/api/v2/recipes?key=<your-api-key>
 ## Flowcharts
 
 The following flowcharts represent the app flow for searching recipes, bookmarking, and uploading new recipes:
+### architecture of recipe loading
+![Flowchart - Part 1](forkify-architecture-recipe-loading.png)
 
 ### Search Recipes Flow
-![Search Recipes Flow](path/to/forkify-flowchart-part-1.png)
+![Search Recipes Flow](forkify-flowchart-part-1.png)
 
 ### Bookmarking Flow
-![Bookmarking Flow](path/to/forkify-flowchart-part-2.png)
+![Bookmarking Flow](forkify-flowchart-part-2.png)
 
 ### Uploading Recipes Flow
-![Uploading Recipes Flow](path/to/forkify-flowchart-part-3.png)
+![Uploading Recipes Flow](forkify-flowchart-part-3.png)
+
+
+
