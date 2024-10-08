@@ -28,18 +28,18 @@ Check out the live demo of the app: [Live Demo Link](your-live-link-here)
 ## Screenshots
 ##
 ### Initial-view
-![Screenshots - Part 1](demo-1.png)
+![Screenshots - Part 1](demo-1.PNG)
 ### Result-view
-![Screenshots - Part 1](forkify-flowchart-part-1.png)
+![Screenshots - Part 1](demo-2.PNG)
 
 ### Recipe view
-![Screenshots - Part 2](forkify-flowchart-part-2.png)
+![Screenshots - Part 2](demo-3.PNG)
 
 ### Upload Recipe view
-![Screenshots - Part 3](forkify-flowchart-part-3.png)
+![Screenshots - Part 3](demo-4.PNG)
 
 ### Bookmark view
-![Screenshots - Part 3](forkify-flowchart-part-3.png)
+![Screenshots - Part 3](demo-5.PNG)
 
 ## Technologies Used
 
