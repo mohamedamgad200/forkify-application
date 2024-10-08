@@ -52,3 +52,7 @@ To set up this project on your local machine:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/forkify-app.git
+2.Navigate to the project folder:
+```bash
+   cd forkify-app
+
