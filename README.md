@@ -11,7 +11,6 @@ Forkify is a recipe searching, bookmarking, and uploading web application. Users
 6. [Usage](#usage)
 7. [API Information](#api-information)
 8. [Flowchart](#flowchart)
-9. [License](#license)
 
 ## Features
 
@@ -62,4 +61,37 @@ npm install
 npm start
 
 # 5. Open http://localhost:1234 in your browser to view the app.
-  
+
+## Usage
+
+### Searching Recipes
+- Type a keyword in the search bar to find recipes.
+- Browse through the paginated results.
+- Click a recipe to view the full details.
+
+### Bookmarking Recipes
+- Click the bookmark icon on a recipe to save it.
+- Access saved bookmarks from the bookmarks menu.
+
+### Adding New Recipes
+- Click "Add Recipe".
+- Fill out the form (Title, Source URL, Image URL, Publisher, Cooking time, Servings, Ingredients).
+- Submit to upload your recipe.
+
+## API Information
+Forkify uses the Forkify API to fetch recipe data. Include your API key when making requests:
+
+- **Example Endpoint:**
+https://forkify-api.herokuapp.com/api/v2/recipes?key=<your-api-key>
+## Flowcharts
+
+The following flowcharts represent the app flow for searching recipes, bookmarking, and uploading new recipes:
+
+### Search Recipes Flow
+![Search Recipes Flow](path/to/forkify-flowchart-part-1.png)
+
+### Bookmarking Flow
+![Bookmarking Flow](path/to/forkify-flowchart-part-2.png)
+
+### Uploading Recipes Flow
+![Uploading Recipes Flow](path/to/forkify-flowchart-part-3.png)
